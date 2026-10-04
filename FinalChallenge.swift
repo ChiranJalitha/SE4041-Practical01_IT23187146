@@ -32,11 +32,6 @@ print("Passed : \(passed)")
 print("")
 print("Email : \(emailDisplay)")
 
-// --- To test the "no email" case for your 03-Final-Challenge-No-Email.png
-// screenshot: temporarily change the line above to `var email: String? = nil`,
-// run again, take the screenshot, then change it back to the real email
-// before your final commit.
-
 // Additional Challenge (optional bonus)
 var phoneNumber: String? = nil
 let phoneDisplay = phoneNumber ?? "Not Provided"
